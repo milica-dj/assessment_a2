@@ -19,6 +19,8 @@ PowerOfTen
 
 pay = int(input("to pay: "))
 
+# comment leon
+
 if pay <= 0:
     print("negative payment is invalid")
 elif pay > 0:
